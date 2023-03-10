@@ -1,1 +1,1 @@
-# vite-elemnt-plus-template
+# vite-element-plus-template
